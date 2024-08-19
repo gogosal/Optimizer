@@ -1,0 +1,10 @@
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\bin\Debug\Optimizer.exe.config
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\bin\Debug\Optimizer.exe
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\bin\Debug\Optimizer.pdb
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\obj\Debug\Optimizer.csproj.AssemblyReference.cache
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\obj\Debug\Optimizer.Form1.resources
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\obj\Debug\Optimizer.Properties.Resources.resources
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\obj\Debug\Optimizer.csproj.GenerateResource.cache
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\obj\Debug\Optimizer.csproj.CoreCompileInputs.cache
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\obj\Debug\Optimizer.exe
+C:\Users\gogof\OneDrive\Documents\Projects C#\Optimizer\Optimizer\obj\Debug\Optimizer.pdb
